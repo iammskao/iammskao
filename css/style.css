@@ -19,7 +19,7 @@ img{max-width: 100%;}
 
 /*以下是自設定*/
 .btn-primary {
-  --bs-btn-bg: #5c3d28;
+  --bs-btn-bg: #9b745a;
   --bs-btn-border-color: rgba(0, 0, 0, 0.075);
 }
 
